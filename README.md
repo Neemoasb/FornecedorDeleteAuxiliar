@@ -1,1 +1,3 @@
-# FornecedorDeleteAuxiliar
+# INTEGRADOR COUPA
+
+A plataforma Coupa é amplamente utilizada em todo o mundo para inserção de documentos de marketing, solicitações de compras, pedidos de compras e notas fiscais de entrada. A ideia deste integrador é criar uma forma automatizada de excluir certos fornecedores por meio de uma lista e arquivo formatado em .CSV. O código irá ler a lista e deletar os fornecedores selecionados, mantendo a base de dados limpa e funcional. Com isso, espera-se uma maior eficiência na gestão de fornecedores e na qualidade dos dados armazenados.
